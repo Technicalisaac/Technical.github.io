@@ -352,7 +352,7 @@ input[type='checkbox'] {
 	height: 3.25rem;
 	border: 1px solid #0b36a8;
 	border-radius: 32px;
-	background-color: #0b36a8;
+	background-color: #555964;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -372,7 +372,7 @@ input[type='checkbox'] {
 /*     Navigation     */
 /**********************/
 .navbar {
-	background-color: #24262a;
+	background-color: #1146a8;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0.875rem;
@@ -485,7 +485,7 @@ input[type='checkbox'] {
 /* end of dropdown menu */
 
 .navbar .fa-stack {
-	width: 2em;
+	width: 2rem;
 	margin-right: 0.25rem;
 	font-size: 0.75rem;
 }
@@ -505,7 +505,7 @@ input[type='checkbox'] {
 }
 
 .navbar .fa-stack:hover .fa-stack-1x {
-	color: #0b36a8;
+	color: #263f81;
 }
 
 .navbar .navbar-toggler {
@@ -521,8 +521,8 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/BGND.jpg') center center no-repeat;
-	background-size: 1650px 800px;
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/IT-Backround.jpg') center center no-repeat;
+	background-size: cover;
 	text-align: center;
 }
 
@@ -620,7 +620,7 @@ input[type='checkbox'] {
 /*******************/
 .split .area-1 {
 	height: 430px;
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/Designjpeg.jpeg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/1st-Backround.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1213,7 +1213,7 @@ a:hover.back-to-top {
 
 	/* Navigation */
 	.navbar .container {
-		max-width: 1330px; height:75px
+		max-width: 1330px; height:45px
 	}
 	/* end of navigation */
 
